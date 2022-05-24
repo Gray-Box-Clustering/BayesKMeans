@@ -1,6 +1,6 @@
 Installing package with:
 ```
-pip install bayesKMeans==0.2.0
+pip install bayesKMeans
 ```
 
 
